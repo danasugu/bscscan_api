@@ -2,7 +2,7 @@ import 'package:bscscan_api/bscscan_api.dart';
 
 void main() async {
   final bsc = BscscanAPI(
-      apiKey: '8MQ7JX4QJ7Q9C7FDUNP8YZ8B2UNHY8WJW3',
+      apiKey: '',
       chain: BscChain.testnet,
       enableLogs: false);
 
